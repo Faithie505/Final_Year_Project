@@ -1,0 +1,5 @@
+# Project Context:
+Road Authorities need to be aware of which areas need traffic calming interventions, the conditions of existing interventions, where their infrastructure is located, and whether they are achieving their current purpose.
+The current process for utilising road calming infrastructure, such as road bumps, speed humps, etc, requires extensive manual reporting, road surveying, site visits and purchasing specialised equipment, making it an extremely costly and time inefficient process.
+
+The aim is to combine repeated observations into a spatial dataset that local councils can analyse and identify locations worth investigating.
